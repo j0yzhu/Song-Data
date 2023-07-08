@@ -10,3 +10,4 @@ This repository is for project 5 of my STATS 220 course, where I am web scraping
 * Json
 * SQL
 * Web scraping
+* Github pages
